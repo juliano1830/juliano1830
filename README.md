@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Eu sou Juliano Fernandes, estou inciando na programação e estou muito animado por poder fazer isto; gosto muito desta área e acredito que terei muito sucesso por fazer o que gosto. Por enquanto estudei no FRONTEND: CSS, HTML, GIT, GIT HUB e atualmente estou iniciando meus estudos de JAVASCRIPT. Espero, por aqui,ajudar e receber ajuda!!
+
+
+
 <!--
 **juliano1830/juliano1830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
